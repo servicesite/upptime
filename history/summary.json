@@ -1750,18 +1750,20 @@
     "url": "https://prestonrepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/prestonrepairs.co.uk",
     "slug": "preston-repairs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 85,
     "timeDay": 85,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-20": 1
+    }
   },
   {
     "name": "Reading Repairs",
