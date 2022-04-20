@@ -9,10 +9,260 @@ sites:
     url: https://www.amazon.com
   - name: Service Site
     url: https://www.servicesite.co.uk
+  - name: Aberdeen Repairs
+    url: https://aberdeen-repairs.co.uk
+  - name: Barnsley Repairs
+    url: https://barnsleyrepairs.co.uk
+  - name: Bath Repairs
+    url: https://bath-repairs.co.uk
+  - name: Belfast Repairs
+    url: https://belfastrepairs.co.uk
   - name: Birmingham Repairs
     url: https://birminghamrepairs.co.uk
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Blackburn Repairs
+    url: https://blackburnrepairs.co.uk
+  - name: Blackpool Repairs
+    url: https://blackpoolrepairs.co.uk
+  - name: Bolton Repairs
+    url: https://boltonrepairs.co.uk
+  - name: Bournemouth Repairs
+    url: https://bournemouthrepairs.co.uk
+  - name: Bradford Repairs
+    url: https://bradfordrepairs.co.uk
+  - name: Brighton Repairs
+    url: https://brightonrepairs.co.uk
+  - name: Bristol Repairs
+    url: https://bristolrepairs.co.uk
+  - name: Bromley Repairs
+    url: https://bromleyrepairs.co.uk
+  - name: Cambridge Repairs
+    url: https://cambridgerepairs.co.uk
+  - name: Canterbury Repairs
+    url: https://canterburyrepairs.co.uk
+  - name: Cardiff Repairs
+    url: https://cardiffrepairs.co.uk
+  - name: Carlisle Repairs
+    url: https://carlislerepairs.co.uk
+  - name: Chatham Repairs
+    url: https://chathamrepairs.co.uk
+  - name: Chelmsford Repairs
+    url: https://chelmsford-repairs.co.uk
+  - name: Chester Repairs
+    url: https://chester-repairs.co.uk
+  - name: Chesterfield Repairs
+    url: https://chesterfieldrepairs.co.uk
+  - name: Colchester Repairs
+    url: https://colchester-repairs.co.uk
+  - name: Coventry Repairs
+    url: https://coventryrepairs.co.uk
+  - name: Crewe Repairs
+    url: https://crewerepairs.co.uk
+  - name: Croydon Repairs
+    url: https://croydonrepairs.co.uk
+  - name: Darlington Repairs
+    url: https://darlingtonrepairs.co.uk
+  - name: Dartford Repairs
+    url: https://dartford-repairs.co.uk
+  - name: Derby Repairs
+    url: https://derby-repairs.co.uk
+  - name: Doncaster Repairs
+    url: https://doncasterrepairs.co.uk
+  - name: Dorchester Repairs
+    url: https://dorchesterrepairs.co.uk
+  - name: Dorset Repairs
+    url: https://dorsetrepairs.co.uk
+  - name: Dudley Repairs
+    url: https://dudleyrepairs.co.uk
+  - name: Dumfries Repairs
+    url: https://dumfriesrepairs.co.uk
+  - name: Dundee Repairs
+    url: https://dundeerepairs.co.uk
+  - name: Durham Repairs
+    url: https://durhamrepairs.co.uk
+  - name: Edinburgh Repairs
+    url: https://edinburgh-repairs.co.uk
+  - name: Enfield Repairs
+    url: https://enfieldrepairs.co.uk
+  - name: Exeter Repairs
+    url: https://exeterrepairs.co.uk
+  - name: Falkirk Repairs
+    url: https://falkirkrepairs.co.uk
+  - name: Fife Repairs
+    url: https://fiferepairs.co.uk
+  - name: Glasgow Repairs
+    url: https://glasgowrepairs.co.uk
+  - name: Gloucester Repairs
+    url: https://gloucesterrepairs.co.uk
+  - name: Guildford Repairs
+    url: https://guildfordrepairs.co.uk
+  - name: Halifax Repairs
+    url: https://halifaxrepairs.co.uk
+  - name: Harrogate Repairs
+    url: https://harrogaterepairs.co.uk
+  - name: Harrow Repairs
+    url: https://harrowrepairs.co.uk
+  - name: Hemel Hempstead Repairs
+    url: https://hemelhempsteadrepairs.co.uk
+  - name: Hereford Repairs
+    url: https://herefordrepairs.co.uk
+  - name: Highlands Repairs
+    url: https://highlandsrepairs.co.uk
+  - name: Huddersfield Repairs
+    url: https://huddersfieldrepairs.co.uk
+  - name: Hull Repairs
+    url: https://hullrepairs.co.uk
+  - name: Ilford Repairs
+    url: https://ilfordrepairs.co.uk
+  - name: Inverness Repairs
+    url: https://invernessrepairs.co.uk
+  - name: Ipswich Repairs
+    url: https://ipswich-repairs.co.uk
+  - name: Isle of Lewis Repairs
+    url: https://isleoflewisrepairs.co.uk
+  - name: Isle of Wight Repairs
+    url: https://iowrepairs.co.uk
+  - name: Kent Repairs
+    url: https://kentrepairs.co.uk
+  - name: Kilmarnock Repairs
+    url: https://kilmarnockrepairs.co.uk
+  - name: Kingston Repairs
+    url: https://kingstonrepairs.co.uk
+  - name: Lancaster Repairs
+    url: https://lancasterrepairs.co.uk
+  - name: Leeds Repairs
+    url: https://leedsrepairs.co.uk
+  - name: Leicester Repairs
+    url: https://leicesterrepairs.co.uk
+  - name: Lincoln Repairs
+    url: https://lincolnrepairs.co.uk
+  - name: Liverpool Repairs
+    url: https://liverpool-repairs.co.uk
+  - name: Llandrindod Wells Repairs
+    url: https://llandrindodwellsrepairs.co.uk
+  - name: London Repairs
+    url: https://london-repairs.co.uk
+  - name: Luton Repairs
+    url: https://lutonrepairs.co.uk
+  - name: Maidstone Repairs
+    url: https://maidstonerepairs.co.uk
+  - name: Manchester Repairs
+    url: https://manchester-repairs.co.uk
+  - name: Milton Keynes Repairs
+    url: https://miltonkeynesrepairs.co.uk
+  - name: Motherwell Repairs
+    url: https://motherwellrepairs.co.uk
+  - name: Newcastle Repairs
+    url: https://newcastlerepairs.co.uk
+  - name: Newport Repairs
+    url: https://newportrepairs.co.uk
+  - name: Norfolk Repairs
+    url: https://norfolkrepairs.co.uk
+  - name: North Wales Repairs
+    url: https://northwalesrepairs.co.uk
+  - name: Northampton Repairs
+    url: https://northamptonrepairs.co.uk
+  - name: Norwich Repairs
+    url: https://norwich-repairs.co.uk
+  - name: Nottingham Repairs
+    url: https://nottinghamrepairs.co.uk
+  - name: Oldham Repairs
+    url: https://oldhamrepairs.co.uk
+  - name: Oxford Repairs
+    url: https://oxfordrepairs.co.uk
+  - name: Paisley Repairs
+    url: https://paisleyrepairs.co.uk
+  - name: Perth Repairs
+    url: https://perthrepairs.co.uk
+  - name: Peterborough Repairs
+    url: https://peterboroughrepairs.co.uk
+  - name: Plymouth Repairs
+    url: https://plymouthrepairs.co.uk
+  - name: Poole Repairs
+    url: https://poolerepairs.co.uk
+  - name: Portsmouth Repairs
+    url: https://portsmouthrepairs.co.uk
+  - name: Preston Repairs
+    url: https://prestonrepairs.co.uk
+  - name: Reading Repairs
+    url: https://readingrepairs.co.uk
+  - name: Redhill Repairs
+    url: https://redhillrepairs.co.uk
+  - name: Romford Repairs
+    url: https://romfordrepairs.co.uk
+  - name: Rotherham Repairs
+    url: https://rotherhamrepairs.co.uk
+  - name: Salford Repairs
+    url: https://salfordrepairs.co.uk
+  - name: Salisbury Repairs
+    url: https://salisburyrepairs.co.uk
+  - name: Sheffield Repairs
+    url: https://sheffieldrepairs.co.uk
+  - name: Shetland Repairs
+    url: https://shetlandrepairs.co.uk
+  - name: Shrewsbury Repairs
+    url: https://shrewsburyrepairs.co.uk
+  - name: Slough Repairs
+    url: https://sloughrepairs.co.uk
+  - name: Southampton Repairs
+    url: https://southampton-repairs.co.uk
+  - name: Southend Repairs
+    url: https://southendrepairs.co.uk
+  - name: St. Albans Repairs
+    url: https://st-albans-repairs.co.uk
+  - name: Stevenage Repairs
+    url: https://stevenagerepairs.co.uk
+  - name: Stirling Repairs
+    url: https://stirlingrepairs.co.uk
+  - name: Stockport Repairs
+    url: https://stockport-repairs.co.uk
+  - name: Stoke-on-Trent Repairs
+    url: https://stokeontrentrepairs.co.uk
+  - name: Sunderland Repairs
+    url: https://sunderlandrepairs.co.uk
+  - name: Sutton Repairs
+    url: https://suttonrepairs.co.uk
+  - name: Swansea Repairs
+    url: https://swansearepairs.co.uk
+  - name: Swindon Repairs
+    url: https://swindonrepairs.co.uk
+  - name: Taunton Repairs
+    url: https://tauntonrepairs.co.uk
+  - name: Teesside Repairs
+    url: https://teessiderepairs.co.uk
+  - name: Telford Repairs
+    url: https://telfordrepairs.co.uk
+  - name: Tiverton Repairs
+    url: https://tivertonrepairs.co.uk
+  - name: Torquay Repairs
+    url: https://torquayrepairs.co.uk
+  - name: Truro Repairs
+    url: https://trurorepairs.co.uk
+  - name: Tunbridge Wells Repairs
+    url: https://tunbridgewellsrepairs.co.uk
+  - name: Tweedbank Repairs
+    url: https://tweedbankrepairs.co.uk
+  - name: Twickenham Repairs
+    url: https://twickenhamrepairs.co.uk
+  - name: Uxbridge Repairs
+    url: https://uxbridgerepairs.co.uk
+  - name: Wakefield Repairs
+    url: https://wakefield-repairs.co.uk
+  - name: Walsall Repairs
+    url: https://walsallrepairs.co.uk
+  - name: Warrington Repairs
+    url: https://warringtonrepairs.co.uk
+  - name: Watford Repairs
+    url: https://watfordrepairs.co.uk
+  - name: Weymouth Repairs
+    url: https://weymouthrepairs.co.uk
+  - name: Wigan Repairs
+    url: https://wigan-repairs.co.uk
+  - name: Wolverhampton Repairs
+    url: https://wolverhamptonrepairs.co.uk
+  - name: Worcester Repairs
+    url: https://worcesterrepairs.co.uk
+  - name: York Repairs
+    url: https://yorkrepairs.co.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
