@@ -23,6 +23,8 @@ sites:
     url: https://servicesite.typeform.com/to/HRoI5H
   - name: Service Site
     url: https://www.servicesite.co.uk
+  - name: Service Site API
+    url: $SS_API_URL
   - name: Aberdeen Repairs
     url: https://aberdeen-repairs.co.uk
   - name: Barnsley Repairs
