@@ -1714,19 +1714,19 @@
     "url": "https://poolerepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/poolerepairs.co.uk",
     "slug": "poole-repairs",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 647,
-    "timeDay": 1584,
-    "timeWeek": 647,
-    "timeMonth": 647,
-    "timeYear": 647,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 583,
+    "timeDay": 1123,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2022-04-22": 0
+      "2022-04-22": 7
     }
   },
   {
