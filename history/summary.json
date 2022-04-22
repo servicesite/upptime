@@ -905,19 +905,17 @@
     "icon": "https://favicons.githubusercontent.com/fiferepairs.co.uk",
     "slug": "fife-repairs",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 115,
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2022-04-22": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Glasgow Repairs",
@@ -1716,18 +1714,20 @@
     "url": "https://poolerepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/poolerepairs.co.uk",
     "slug": "poole-repairs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 205,
-    "timeWeek": 183,
-    "timeMonth": 183,
-    "timeYear": 183,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 647,
+    "timeDay": 1584,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 647,
+    "dailyMinutesDown": {
+      "2022-04-22": 0
+    }
   },
   {
     "name": "Portsmouth Repairs",
