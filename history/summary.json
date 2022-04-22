@@ -1678,18 +1678,20 @@
     "url": "https://peterboroughrepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/peterboroughrepairs.co.uk",
     "slug": "peterborough-repairs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 151,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 130,
+    "timeDay": 132,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
+    "dailyMinutesDown": {
+      "2022-04-22": 1
+    }
   },
   {
     "name": "Plymouth Repairs",
@@ -1715,19 +1717,17 @@
     "icon": "https://favicons.githubusercontent.com/poolerepairs.co.uk",
     "slug": "poole-repairs",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 583,
     "timeDay": 1123,
     "timeWeek": 583,
     "timeMonth": 583,
     "timeYear": 583,
-    "dailyMinutesDown": {
-      "2022-04-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portsmouth Repairs",
