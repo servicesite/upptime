@@ -904,19 +904,19 @@
     "url": "https://fiferepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/fiferepairs.co.uk",
     "slug": "fife-repairs",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 146,
-    "timeDay": 154,
-    "timeWeek": 146,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 130,
+    "timeDay": 115,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-04-22": 1
+      "2022-04-22": 9
     }
   },
   {
