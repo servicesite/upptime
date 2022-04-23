@@ -1679,19 +1679,17 @@
     "icon": "https://favicons.githubusercontent.com/peterboroughrepairs.co.uk",
     "slug": "peterborough-repairs",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 169,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
-    "dailyMinutesDown": {
-      "2022-04-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plymouth Repairs",
