@@ -454,19 +454,19 @@
     "url": "https://canterburyrepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/canterburyrepairs.co.uk",
     "slug": "canterbury-repairs",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 388,
-    "timeDay": 1560,
-    "timeWeek": 526,
-    "timeMonth": 388,
-    "timeYear": 388,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 371,
+    "timeDay": 1097,
+    "timeWeek": 486,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-04-28": 1
+      "2022-04-28": 8
     }
   },
   {
