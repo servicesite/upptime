@@ -724,19 +724,19 @@
     "url": "https://dorchesterrepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/dorchesterrepairs.co.uk",
     "slug": "dorchester-repairs",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 238,
-    "timeDay": 663,
-    "timeWeek": 287,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 225,
+    "timeDay": 465,
+    "timeWeek": 263,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-04-28": 1
+      "2022-04-28": 21
     }
   },
   {
