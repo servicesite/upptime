@@ -1392,19 +1392,19 @@
     "url": "https://lutonrepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/lutonrepairs.co.uk",
     "slug": "luton-repairs",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 189,
-    "timeDay": 139,
-    "timeWeek": 214,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 265,
+    "timeDay": 539,
+    "timeWeek": 339,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2022-04-30": 1
+      "2022-04-30": 48
     }
   },
   {
