@@ -275,19 +275,17 @@
     "icon": "https://favicons.githubusercontent.com/birminghamrepairs.co.uk",
     "slug": "birmingham-repairs",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 39,
     "timeWeek": 82,
     "timeMonth": 113,
     "timeYear": 113,
-    "dailyMinutesDown": {
-      "2022-05-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blackburn Repairs",
@@ -295,19 +293,17 @@
     "icon": "https://favicons.githubusercontent.com/blackburnrepairs.co.uk",
     "slug": "blackburn-repairs",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 100,
     "timeWeek": 300,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2022-05-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blackpool Repairs",
@@ -315,19 +311,17 @@
     "icon": "https://favicons.githubusercontent.com/blackpoolrepairs.co.uk",
     "slug": "blackpool-repairs",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 114,
     "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 141,
-    "dailyMinutesDown": {
-      "2022-05-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bolton Repairs",
@@ -335,19 +329,17 @@
     "icon": "https://favicons.githubusercontent.com/boltonrepairs.co.uk",
     "slug": "bolton-repairs",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 489,
     "timeDay": 1756,
     "timeWeek": 670,
     "timeMonth": 489,
     "timeYear": 489,
-    "dailyMinutesDown": {
-      "2022-05-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bournemouth Repairs",
@@ -950,19 +942,19 @@
     "url": "https://gloucesterrepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/gloucesterrepairs.co.uk",
     "slug": "gloucester-repairs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 1621,
-    "timeWeek": 717,
-    "timeMonth": 454,
-    "timeYear": 454,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 446,
+    "timeDay": 1189,
+    "timeWeek": 674,
+    "timeMonth": 446,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2022-05-02": 1
+      "2022-05-02": 8
     }
   },
   {
