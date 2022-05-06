@@ -2014,19 +2014,19 @@
     "url": "https://stevenagerepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/stevenagerepairs.co.uk",
     "slug": "stevenage-repairs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 1583,
-    "timeWeek": 602,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 540,
+    "timeDay": 1220,
+    "timeWeek": 590,
+    "timeMonth": 540,
+    "timeYear": 540,
     "dailyMinutesDown": {
-      "2022-05-06": 1
+      "2022-05-06": 7
     }
   },
   {
