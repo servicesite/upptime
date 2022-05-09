@@ -94,19 +94,19 @@
     "url": "https://servicesite.typeform.com/to/AwT0or",
     "icon": "https://favicons.githubusercontent.com/servicesite.typeform.com",
     "slug": "typeform-dishwashers",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 1539,
-    "timeWeek": 692,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 399,
+    "timeDay": 1238,
+    "timeWeek": 632,
+    "timeMonth": 399,
+    "timeYear": 399,
     "dailyMinutesDown": {
-      "2022-05-09": 1
+      "2022-05-09": 9
     }
   },
   {
