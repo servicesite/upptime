@@ -1328,19 +1328,19 @@
     "url": "https://lincolnrepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/lincolnrepairs.co.uk",
     "slug": "lincoln-repairs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 104,
-    "timeWeek": 156,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 186,
+    "timeDay": 117,
+    "timeWeek": 154,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2022-05-11": 1
+      "2022-05-11": 10
     }
   },
   {
