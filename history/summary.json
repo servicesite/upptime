@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 375,
     "timeDay": 424,
-    "timeWeek": 826,
+    "timeWeek": 292,
     "timeMonth": 375,
     "timeYear": 375,
     "dailyMinutesDown": {}
@@ -733,11 +733,11 @@
     "icon": "https://favicons.githubusercontent.com/dorchesterrepairs.co.uk",
     "slug": "dorchester-repairs",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 178,
     "timeDay": 149,
     "timeWeek": 171,
@@ -1191,7 +1191,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
-    "timeDay": 1117,
+    "timeDay": 152,
     "timeWeek": 699,
     "timeMonth": 465,
     "timeYear": 465,
@@ -2014,10 +2014,10 @@
     "url": "https://stevenagerepairs.co.uk",
     "icon": "https://favicons.githubusercontent.com/stevenagerepairs.co.uk",
     "slug": "stevenage-repairs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
@@ -2025,7 +2025,9 @@
     "timeWeek": 269,
     "timeMonth": 441,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 1
+    }
   },
   {
     "name": "Stirling Repairs",
