@@ -1,7 +1,7 @@
 url: https://edinburgh-repairs.co.uk
-status: up
-code: 200
-responseTime: 232
-lastUpdated: 2022-12-07T23:06:31.134Z
+status: down
+code: 500
+responseTime: 3122
+lastUpdated: 2022-12-08T06:07:44.862Z
 startTime: Wed Apr 20 2022 13:23:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
