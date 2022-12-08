@@ -1,7 +1,7 @@
 url: https://leedsrepairs.co.uk
-status: up
-code: 200
-responseTime: 392
-lastUpdated: 2022-12-07T23:06:46.448Z
+status: down
+code: 500
+responseTime: 3131
+lastUpdated: 2022-12-08T06:54:59.509Z
 startTime: Wed Apr 20 2022 13:23:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
