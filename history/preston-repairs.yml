@@ -1,7 +1,7 @@
 url: https://prestonrepairs.co.uk
-status: up
-code: 200
-responseTime: 261
-lastUpdated: 2022-12-07T23:07:01.964Z
+status: down
+code: 500
+responseTime: 3072
+lastUpdated: 2022-12-08T05:31:22.576Z
 startTime: Wed Apr 20 2022 13:24:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
