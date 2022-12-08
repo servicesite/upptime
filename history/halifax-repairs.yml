@@ -1,7 +1,7 @@
 url: https://halifaxrepairs.co.uk
-status: up
-code: 200
-responseTime: 345
-lastUpdated: 2022-12-07T23:06:36.013Z
+status: down
+code: 500
+responseTime: 3132
+lastUpdated: 2022-12-08T06:54:45.508Z
 startTime: Wed Apr 20 2022 13:23:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
