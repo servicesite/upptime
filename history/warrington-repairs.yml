@@ -1,7 +1,7 @@
 url: https://warringtonrepairs.co.uk
-status: up
-code: 200
-responseTime: 389
-lastUpdated: 2022-12-08T05:22:34.220Z
+status: down
+code: 500
+responseTime: 3121
+lastUpdated: 2022-12-08T05:40:01.066Z
 startTime: Wed Apr 20 2022 13:24:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
