@@ -1,7 +1,7 @@
 url: https://yorkrepairs.co.uk
-status: up
-code: 200
-responseTime: 250
-lastUpdated: 2022-12-09T23:06:56.721Z
+status: down
+code: 500
+responseTime: 3123
+lastUpdated: 2022-12-10T04:47:14.968Z
 startTime: Wed Apr 20 2022 13:24:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
