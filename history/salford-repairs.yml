@@ -1,7 +1,7 @@
 url: https://salfordrepairs.co.uk
-status: up
-code: 200
-responseTime: 177
-lastUpdated: 2022-12-12T23:06:46.818Z
+status: down
+code: 500
+responseTime: 3116
+lastUpdated: 2022-12-13T13:53:50.435Z
 startTime: Wed Apr 20 2022 13:24:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
