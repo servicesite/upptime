@@ -1,7 +1,7 @@
 url: https://lincolnrepairs.co.uk
-status: up
-code: 200
-responseTime: 153
-lastUpdated: 2022-12-12T23:06:31.062Z
+status: down
+code: 500
+responseTime: 3122
+lastUpdated: 2022-12-13T14:09:14.307Z
 startTime: Wed Apr 20 2022 13:23:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
