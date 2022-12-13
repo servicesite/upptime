@@ -1,7 +1,7 @@
 url: https://hullrepairs.co.uk
-status: up
-code: 200
-responseTime: 131
-lastUpdated: 2022-12-12T23:06:24.816Z
+status: down
+code: 500
+responseTime: 3118
+lastUpdated: 2022-12-13T13:52:27.408Z
 startTime: Wed Apr 20 2022 13:23:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
