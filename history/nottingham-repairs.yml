@@ -1,7 +1,7 @@
 url: https://nottinghamrepairs.co.uk
-status: up
-code: 200
-responseTime: 2253
-lastUpdated: 2022-12-13T13:53:09.214Z
+status: down
+code: 500
+responseTime: 3023
+lastUpdated: 2022-12-13T14:44:44.079Z
 startTime: Wed Apr 20 2022 13:24:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
