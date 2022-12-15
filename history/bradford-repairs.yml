@@ -1,7 +1,7 @@
 url: https://bradfordrepairs.co.uk
-status: up
-code: 200
-responseTime: 7931
-lastUpdated: 2022-12-15T19:38:00.366Z
+status: down
+code: 500
+responseTime: 3099
+lastUpdated: 2022-12-15T20:07:39.112Z
 startTime: Wed Apr 20 2022 13:23:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
