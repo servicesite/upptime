@@ -1,7 +1,7 @@
 url: https://walsallrepairs.co.uk
-status: up
-code: 200
-responseTime: 355
-lastUpdated: 2022-12-14T23:07:20.914Z
+status: down
+code: 500
+responseTime: 3093
+lastUpdated: 2022-12-15T19:19:50.423Z
 startTime: Wed Apr 20 2022 13:24:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
