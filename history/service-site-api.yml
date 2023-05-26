@@ -1,7 +1,7 @@
 url: $SS_API_URL
-status: down
-code: 503
-responseTime: 273
-lastUpdated: 2023-05-26T01:17:36.414Z
+status: up
+code: 200
+responseTime: 405
+lastUpdated: 2023-05-26T03:49:08.297Z
 startTime: Wed Apr 20 2022 15:21:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
