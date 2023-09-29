@@ -1,7 +1,7 @@
 url: https://huddersfieldrepairs.co.uk
-status: up
-code: 200
-responseTime: 503
-lastUpdated: 2023-09-28T23:17:30.502Z
+status: down
+code: 500
+responseTime: 60
+lastUpdated: 2023-09-29T14:00:11.401Z
 startTime: 2022-04-20T13:23:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
