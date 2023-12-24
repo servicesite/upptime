@@ -1,7 +1,7 @@
 url: https://servicesite.typeform.com/to/AwT0or
-status: up
-code: 200
-responseTime: 1440
-lastUpdated: 2023-12-23T23:17:35.284Z
+status: down
+code: 502
+responseTime: 8
+lastUpdated: 2023-12-24T02:31:41.825Z
 startTime: 2022-04-20T13:35:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
