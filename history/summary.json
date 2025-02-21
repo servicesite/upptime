@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 98,
+    "timeDay": 90,
     "timeWeek": 100,
-    "timeMonth": 120,
+    "timeMonth": 119,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2024-05-01": 40
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 100,
-    "timeWeek": 210,
-    "timeMonth": 149,
+    "timeDay": 134,
+    "timeWeek": 211,
+    "timeMonth": 147,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2024-11-06": 23
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 426,
-    "timeWeek": 453,
-    "timeMonth": 443,
+    "time": 403,
+    "timeDay": 422,
+    "timeWeek": 417,
+    "timeMonth": 393,
     "timeYear": 454,
     "dailyMinutesDown": {}
   },
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 211,
-    "timeWeek": 125,
-    "timeMonth": 139,
-    "timeYear": 156,
+    "time": 163,
+    "timeDay": 56,
+    "timeWeek": 126,
+    "timeMonth": 135,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -81,15 +81,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicesite.typeform.com.ico",
     "slug": "typeform-cookers",
     "status": "up",
-    "uptime": "93.11%",
+    "uptime": "93.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 674,
-    "timeDay": 387,
-    "timeWeek": 384,
-    "timeMonth": 493,
+    "time": 675,
+    "timeDay": 476,
+    "timeWeek": 372,
+    "timeMonth": 488,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2024-11-25": 21,
@@ -111,10 +111,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 317,
-    "timeDay": 124,
-    "timeWeek": 153,
-    "timeMonth": 170,
+    "time": 318,
+    "timeDay": 253,
+    "timeWeek": 160,
+    "timeMonth": 171,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2024-11-25": 21,
@@ -137,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 318,
-    "timeDay": 175,
-    "timeWeek": 167,
-    "timeMonth": 399,
+    "timeDay": 200,
+    "timeWeek": 159,
+    "timeMonth": 397,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2024-11-25": 20,
@@ -162,8 +162,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 321,
-    "timeDay": 175,
-    "timeWeek": 151,
+    "timeDay": 214,
+    "timeWeek": 153,
     "timeMonth": 160,
     "timeYear": 228,
     "dailyMinutesDown": {
@@ -186,9 +186,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 317,
-    "timeDay": 139,
-    "timeWeek": 144,
+    "time": 308,
+    "timeDay": 200,
+    "timeWeek": 143,
     "timeMonth": 156,
     "timeYear": 228,
     "dailyMinutesDown": {
@@ -206,16 +206,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.servicesite.co.uk.ico",
     "slug": "service-site",
     "status": "up",
-    "uptime": "62.65%",
+    "uptime": "62.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.60%",
-    "time": 242,
-    "timeDay": 206,
-    "timeWeek": 678,
-    "timeMonth": 342,
-    "timeYear": 220,
+    "uptimeYear": "36.87%",
+    "time": 240,
+    "timeDay": 361,
+    "timeWeek": 673,
+    "timeMonth": 344,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2025-01-06": 159,
       "2024-10-08": 469,
@@ -446,8 +446,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -456,16 +455,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "service-site-api",
     "status": "up",
-    "uptime": "55.16%",
+    "uptime": "55.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.60%",
-    "time": 186,
-    "timeDay": 110,
-    "timeWeek": 206,
-    "timeMonth": 230,
-    "timeYear": 186,
+    "uptimeYear": "36.87%",
+    "time": 187,
+    "timeDay": 267,
+    "timeWeek": 207,
+    "timeMonth": 229,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2025-01-06": 159,
       "2024-10-08": 469,
@@ -696,8 +695,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -706,7 +704,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aberdeen-repairs.co.uk.ico",
     "slug": "aberdeen-repairs",
     "status": "down",
-    "uptime": "53.49%",
+    "uptime": "53.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -715,9 +713,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 542,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-02-20": 41,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -1080,8 +1079,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -1090,18 +1088,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/barnsleyrepairs.co.uk.ico",
     "slug": "barnsley-repairs",
     "status": "down",
-    "uptime": "54.28%",
+    "uptime": "54.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 204,
+    "time": 205,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 41,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -1464,8 +1463,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -1474,7 +1472,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bath-repairs.co.uk.ico",
     "slug": "bath-repairs",
     "status": "down",
-    "uptime": "50.87%",
+    "uptime": "50.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1485,7 +1483,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -1848,8 +1847,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -1858,18 +1856,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/belfastrepairs.co.uk.ico",
     "slug": "belfast-repairs",
     "status": "down",
-    "uptime": "65.96%",
+    "uptime": "65.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.34%",
-    "time": 233,
+    "uptimeYear": "4.07%",
+    "time": 232,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 595,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -2230,7 +2229,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/birminghamrepairs.co.uk.ico",
     "slug": "birmingham-repairs",
     "status": "down",
-    "uptime": "64.97%",
+    "uptime": "64.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2241,7 +2240,8 @@
     "timeMonth": 0,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -2581,8 +2581,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -2591,18 +2590,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackburnrepairs.co.uk.ico",
     "slug": "blackburn-repairs",
     "status": "down",
-    "uptime": "80.46%",
+    "uptime": "80.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.88%",
+    "uptimeYear": "47.60%",
     "time": 214,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -2802,18 +2802,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackpoolrepairs.co.uk.ico",
     "slug": "blackpool-repairs",
     "status": "down",
-    "uptime": "49.78%",
+    "uptime": "49.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 194,
+    "time": 63,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -3176,8 +3177,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -3186,16 +3186,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/boltonrepairs.co.uk.ico",
     "slug": "bolton-repairs",
     "status": "up",
-    "uptime": "93.67%",
+    "uptime": "93.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.42%",
-    "time": 197,
-    "timeDay": 202,
-    "timeWeek": 237,
-    "timeMonth": 248,
-    "timeYear": 196,
+    "uptimeYear": "83.70%",
+    "time": 196,
+    "timeDay": 420,
+    "timeWeek": 256,
+    "timeMonth": 251,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2025-01-15": 236,
       "2024-10-17": 248,
@@ -3258,8 +3258,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -3273,11 +3272,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 244,
-    "timeDay": 267,
-    "timeWeek": 267,
-    "timeMonth": 453,
-    "timeYear": 266,
+    "time": 246,
+    "timeDay": 807,
+    "timeWeek": 367,
+    "timeMonth": 461,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2024-10-10": 32
     }
@@ -3288,18 +3287,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bradfordrepairs.co.uk.ico",
     "slug": "bradford-repairs",
     "status": "down",
-    "uptime": "65.35%",
+    "uptime": "65.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.36%",
-    "time": 178,
+    "uptimeYear": "4.08%",
+    "time": 179,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 168,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -3663,11 +3663,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 192,
-    "timeWeek": 352,
-    "timeMonth": 322,
-    "timeYear": 250,
+    "time": 244,
+    "timeDay": 471,
+    "timeWeek": 381,
+    "timeMonth": 318,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2024-10-12": 21
     }
@@ -3678,18 +3678,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bristolrepairs.co.uk.ico",
     "slug": "bristol-repairs",
     "status": "down",
-    "uptime": "57.62%",
+    "uptime": "57.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 152,
+    "time": 153,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -4052,8 +4053,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -4062,18 +4062,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bromleyrepairs.co.uk.ico",
     "slug": "bromley-repairs",
     "status": "down",
-    "uptime": "48.69%",
+    "uptime": "48.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 215,
+    "time": 216,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -4436,8 +4437,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -4446,18 +4446,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cambridgerepairs.co.uk.ico",
     "slug": "cambridge-repairs",
     "status": "down",
-    "uptime": "54.50%",
+    "uptime": "54.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 241,
+    "time": 242,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -4820,8 +4821,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -4830,18 +4830,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/canterburyrepairs.co.uk.ico",
     "slug": "canterbury-repairs",
     "status": "down",
-    "uptime": "57.88%",
+    "uptime": "57.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 184,
+    "time": 185,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 41,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -5204,8 +5205,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -5214,15 +5214,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cardiffrepairs.co.uk.ico",
     "slug": "cardiff-repairs",
     "status": "up",
-    "uptime": "80.76%",
+    "uptime": "80.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.17%",
-    "uptimeYear": "64.66%",
-    "time": 933,
-    "timeDay": 621,
-    "timeWeek": 786,
-    "timeMonth": 1060,
+    "uptimeYear": "64.93%",
+    "time": 935,
+    "timeDay": 1032,
+    "timeWeek": 817,
+    "timeMonth": 1053,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-02-02": 21,
@@ -5376,8 +5376,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -5386,7 +5385,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/carlislerepairs.co.uk.ico",
     "slug": "carlisle-repairs",
     "status": "down",
-    "uptime": "55.46%",
+    "uptime": "55.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -5397,7 +5396,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -5760,8 +5760,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -5770,18 +5769,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chathamrepairs.co.uk.ico",
     "slug": "chatham-repairs",
     "status": "down",
-    "uptime": "69.35%",
+    "uptime": "69.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.97%",
+    "uptimeYear": "12.70%",
     "time": 194,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 196,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -6108,18 +6108,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chelmsford-repairs.co.uk.ico",
     "slug": "chelmsford-repairs",
     "status": "down",
-    "uptime": "90.02%",
+    "uptime": "89.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.52%",
+    "uptimeYear": "89.24%",
     "time": 180,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -6162,8 +6163,7 @@
       "2024-09-09": 249,
       "2024-06-11": 224,
       "2024-05-01": 17,
-      "2024-03-13": 173,
-      "2024-02-22": 70
+      "2024-03-13": 173
     }
   },
   {
@@ -6172,7 +6172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chester-repairs.co.uk.ico",
     "slug": "chester-repairs",
     "status": "down",
-    "uptime": "53.19%",
+    "uptime": "53.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -6183,7 +6183,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 42,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -6546,8 +6547,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -6556,18 +6556,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chesterfieldrepairs.co.uk.ico",
     "slug": "chesterfield-repairs",
     "status": "down",
-    "uptime": "56.93%",
+    "uptime": "56.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 202,
+    "time": 203,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -6930,8 +6931,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -6940,7 +6940,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/colchester-repairs.co.uk.ico",
     "slug": "colchester-repairs",
     "status": "down",
-    "uptime": "23.07%",
+    "uptime": "23.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -6951,7 +6951,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -7314,8 +7315,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -7324,18 +7324,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/coventryrepairs.co.uk.ico",
     "slug": "coventry-repairs",
     "status": "down",
-    "uptime": "66.32%",
+    "uptime": "66.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.36%",
+    "uptimeYear": "4.08%",
     "time": 197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -7694,7 +7695,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crewerepairs.co.uk.ico",
     "slug": "crewe-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -7703,9 +7704,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 143,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -8068,8 +8070,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -8078,18 +8079,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/croydonrepairs.co.uk.ico",
     "slug": "croydon-repairs",
     "status": "down",
-    "uptime": "19.30%",
+    "uptime": "19.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 229,
+    "time": 223,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -8452,8 +8454,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -8462,7 +8463,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/darlingtonrepairs.co.uk.ico",
     "slug": "darlington-repairs",
     "status": "down",
-    "uptime": "57.75%",
+    "uptime": "57.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -8473,7 +8474,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -8836,8 +8838,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -8846,18 +8847,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dartford-repairs.co.uk.ico",
     "slug": "dartford-repairs",
     "status": "down",
-    "uptime": "53.66%",
+    "uptime": "53.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 262,
+    "time": 263,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -9220,8 +9222,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -9230,18 +9231,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/derby-repairs.co.uk.ico",
     "slug": "derby-repairs",
     "status": "down",
-    "uptime": "61.78%",
+    "uptime": "61.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.36%",
-    "time": 256,
+    "uptimeYear": "4.08%",
+    "time": 257,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 494,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -9600,16 +9602,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/doncasterrepairs.co.uk.ico",
     "slug": "doncaster-repairs",
     "status": "up",
-    "uptime": "93.00%",
+    "uptime": "93.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.80%",
-    "time": 199,
-    "timeDay": 181,
-    "timeWeek": 271,
-    "timeMonth": 238,
-    "timeYear": 200,
+    "time": 200,
+    "timeDay": 428,
+    "timeWeek": 281,
+    "timeMonth": 241,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-01-31": 79,
       "2025-01-30": 205,
@@ -9617,8 +9619,7 @@
       "2024-08-03": 262,
       "2024-05-05": 187,
       "2024-05-01": 17,
-      "2024-04-24": 19,
-      "2024-02-22": 40
+      "2024-04-24": 19
     }
   },
   {
@@ -9627,7 +9628,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dorchesterrepairs.co.uk.ico",
     "slug": "dorchester-repairs",
     "status": "down",
-    "uptime": "49.90%",
+    "uptime": "49.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -9638,7 +9639,8 @@
     "timeMonth": 0,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -10001,8 +10003,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -10011,7 +10012,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dorsetrepairs.co.uk.ico",
     "slug": "dorset-repairs",
     "status": "down",
-    "uptime": "43.47%",
+    "uptime": "43.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -10022,7 +10023,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -10385,8 +10387,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -10395,18 +10396,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dudleyrepairs.co.uk.ico",
     "slug": "dudley-repairs",
     "status": "down",
-    "uptime": "56.50%",
+    "uptime": "56.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 206,
+    "time": 207,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -10769,8 +10771,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -10779,7 +10780,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dumfriesrepairs.co.uk.ico",
     "slug": "dumfries-repairs",
     "status": "down",
-    "uptime": "37.37%",
+    "uptime": "37.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -10790,7 +10791,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -11153,8 +11155,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -11163,7 +11164,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dundeerepairs.co.uk.ico",
     "slug": "dundee-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -11172,9 +11173,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 120,
+    "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -11537,8 +11539,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -11547,7 +11548,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/durhamrepairs.co.uk.ico",
     "slug": "durham-repairs",
     "status": "down",
-    "uptime": "53.09%",
+    "uptime": "53.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -11558,7 +11559,8 @@
     "timeMonth": 0,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -11773,8 +11775,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -11783,18 +11784,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/edinburgh-repairs.co.uk.ico",
     "slug": "edinburgh-repairs",
     "status": "down",
-    "uptime": "22.95%",
+    "uptime": "22.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 181,
+    "time": 182,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -12157,8 +12159,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -12167,7 +12168,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/enfieldrepairs.co.uk.ico",
     "slug": "enfield-repairs",
     "status": "down",
-    "uptime": "44.47%",
+    "uptime": "44.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -12176,9 +12177,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 109,
+    "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-02-20": 43,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -12541,8 +12543,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -12551,18 +12552,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/exeterrepairs.co.uk.ico",
     "slug": "exeter-repairs",
     "status": "down",
-    "uptime": "57.02%",
+    "uptime": "56.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 270,
+    "time": 269,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -12925,8 +12927,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -12941,18 +12942,17 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.81%",
     "time": 193,
-    "timeDay": 179,
-    "timeWeek": 231,
-    "timeMonth": 217,
-    "timeYear": 193,
+    "timeDay": 356,
+    "timeWeek": 243,
+    "timeMonth": 219,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-02-11": 170,
       "2024-11-13": 160,
       "2024-11-12": 201,
       "2024-08-14": 247,
       "2024-05-16": 178,
-      "2024-05-01": 17,
-      "2024-02-22": 47
+      "2024-05-01": 17
     }
   },
   {
@@ -12961,7 +12961,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fiferepairs.co.uk.ico",
     "slug": "fife-repairs",
     "status": "down",
-    "uptime": "50.87%",
+    "uptime": "50.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -12972,7 +12972,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -13335,8 +13336,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -13345,15 +13345,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/glasgowrepairs.co.uk.ico",
     "slug": "glasgow-repairs",
     "status": "up",
-    "uptime": "93.67%",
+    "uptime": "93.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.71%",
+    "uptimeYear": "88.98%",
     "time": 205,
-    "timeDay": 205,
-    "timeWeek": 201,
-    "timeMonth": 227,
+    "timeDay": 427,
+    "timeWeek": 223,
+    "timeMonth": 231,
     "timeYear": 206,
     "dailyMinutesDown": {
       "2024-12-27": 151,
@@ -13398,8 +13398,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -13408,18 +13407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gloucesterrepairs.co.uk.ico",
     "slug": "gloucester-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 160,
+    "time": 161,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 124,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -13782,8 +13782,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -13792,7 +13791,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/guildfordrepairs.co.uk.ico",
     "slug": "guildford-repairs",
     "status": "down",
-    "uptime": "45.29%",
+    "uptime": "45.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -13803,7 +13802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -14166,8 +14166,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -14176,7 +14175,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/halifaxrepairs.co.uk.ico",
     "slug": "halifax-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14185,9 +14184,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 142,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 42,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -14550,8 +14550,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -14560,18 +14559,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/harrogaterepairs.co.uk.ico",
     "slug": "harrogate-repairs",
     "status": "down",
-    "uptime": "43.66%",
+    "uptime": "43.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 159,
+    "time": 155,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 141,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -14934,8 +14934,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -14944,16 +14943,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/harrowrepairs.co.uk.ico",
     "slug": "harrow-repairs",
     "status": "up",
-    "uptime": "88.29%",
+    "uptime": "88.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.84%",
-    "time": 183,
-    "timeDay": 303,
-    "timeWeek": 244,
-    "timeMonth": 237,
-    "timeYear": 178,
+    "time": 182,
+    "timeDay": 436,
+    "timeWeek": 268,
+    "timeMonth": 240,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2025-02-11": 49,
       "2024-11-13": 183,
@@ -14969,18 +14968,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hemelhempsteadrepairs.co.uk.ico",
     "slug": "hemel-hempstead-repairs",
     "status": "down",
-    "uptime": "11.53%",
+    "uptime": "11.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 203,
+    "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -15343,8 +15343,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -15353,7 +15352,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/herefordrepairs.co.uk.ico",
     "slug": "hereford-repairs",
     "status": "down",
-    "uptime": "47.40%",
+    "uptime": "47.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -15364,7 +15363,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -15727,8 +15727,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -15737,7 +15736,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/highlandsrepairs.co.uk.ico",
     "slug": "highlands-repairs",
     "status": "down",
-    "uptime": "42.30%",
+    "uptime": "42.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -15748,7 +15747,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -16111,8 +16111,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -16121,7 +16120,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/huddersfieldrepairs.co.uk.ico",
     "slug": "huddersfield-repairs",
     "status": "down",
-    "uptime": "45.73%",
+    "uptime": "45.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16130,9 +16129,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 118,
+    "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -16495,8 +16495,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -16505,18 +16504,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hullrepairs.co.uk.ico",
     "slug": "hull-repairs",
     "status": "down",
-    "uptime": "57.75%",
+    "uptime": "57.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 152,
+    "time": 153,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -16879,8 +16879,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -16889,18 +16888,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilfordrepairs.co.uk.ico",
     "slug": "ilford-repairs",
     "status": "down",
-    "uptime": "54.40%",
+    "uptime": "54.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 178,
+    "time": 176,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 124,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -17263,8 +17263,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -17273,7 +17272,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/invernessrepairs.co.uk.ico",
     "slug": "inverness-repairs",
     "status": "down",
-    "uptime": "19.42%",
+    "uptime": "19.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -17284,7 +17283,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -17647,8 +17647,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -17657,18 +17656,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipswich-repairs.co.uk.ico",
     "slug": "ipswich-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 177,
+    "time": 178,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 44,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -18031,8 +18031,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -18041,7 +18040,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/isleoflewisrepairs.co.uk.ico",
     "slug": "isle-of-lewis-repairs",
     "status": "down",
-    "uptime": "45.01%",
+    "uptime": "44.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -18052,7 +18051,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -18415,8 +18415,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -18425,7 +18424,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iowrepairs.co.uk.ico",
     "slug": "isle-of-wight-repairs",
     "status": "down",
-    "uptime": "57.69%",
+    "uptime": "57.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -18436,7 +18435,8 @@
     "timeMonth": 0,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -18799,8 +18799,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -18809,7 +18808,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kentrepairs.co.uk.ico",
     "slug": "kent-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -18820,7 +18819,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -19183,8 +19183,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -19193,18 +19192,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kilmarnockrepairs.co.uk.ico",
     "slug": "kilmarnock-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 164,
+    "time": 163,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -19567,8 +19567,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -19577,7 +19576,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kingstonrepairs.co.uk.ico",
     "slug": "kingston-repairs",
     "status": "down",
-    "uptime": "51.06%",
+    "uptime": "51.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -19588,7 +19587,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -19951,8 +19951,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -19961,7 +19960,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lancasterrepairs.co.uk.ico",
     "slug": "lancaster-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -19972,7 +19971,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -20335,8 +20335,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -20345,16 +20344,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/leedsrepairs.co.uk.ico",
     "slug": "leeds-repairs",
     "status": "up",
-    "uptime": "87.37%",
+    "uptime": "87.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.43%",
-    "time": 193,
-    "timeDay": 282,
-    "timeWeek": 212,
-    "timeMonth": 215,
-    "timeYear": 207,
+    "uptimeYear": "83.70%",
+    "time": 194,
+    "timeDay": 405,
+    "timeWeek": 219,
+    "timeMonth": 218,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-01-15": 332,
       "2024-10-17": 211,
@@ -20418,8 +20417,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -20428,7 +20426,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/leicesterrepairs.co.uk.ico",
     "slug": "leicester-repairs",
     "status": "down",
-    "uptime": "23.08%",
+    "uptime": "23.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -20439,7 +20437,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -20802,8 +20801,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -20812,18 +20810,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lincolnrepairs.co.uk.ico",
     "slug": "lincoln-repairs",
     "status": "down",
-    "uptime": "42.84%",
+    "uptime": "42.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 156,
+    "time": 154,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 116,
+    "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -21186,8 +21185,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -21196,16 +21194,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/liverpool-repairs.co.uk.ico",
     "slug": "liverpool-repairs",
     "status": "up",
-    "uptime": "43.51%",
+    "uptime": "43.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.44%",
+    "uptimeYear": "83.71%",
     "time": 191,
-    "timeDay": 199,
-    "timeWeek": 233,
-    "timeMonth": 207,
-    "timeYear": 195,
+    "timeDay": 447,
+    "timeWeek": 238,
+    "timeMonth": 212,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2025-01-15": 264,
       "2024-10-17": 211,
@@ -21269,8 +21267,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -21279,7 +21276,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/llandrindodwellsrepairs.co.uk.ico",
     "slug": "llandrindod-wells-repairs",
     "status": "down",
-    "uptime": "19.59%",
+    "uptime": "19.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -21290,7 +21287,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -21653,8 +21651,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -21663,18 +21660,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/london-repairs.co.uk.ico",
     "slug": "london-repairs",
     "status": "down",
-    "uptime": "57.82%",
+    "uptime": "57.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 169,
+    "time": 166,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -22037,8 +22035,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -22047,7 +22044,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lutonrepairs.co.uk.ico",
     "slug": "luton-repairs",
     "status": "down",
-    "uptime": "52.06%",
+    "uptime": "52.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -22056,9 +22053,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 137,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -22421,8 +22419,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -22431,18 +22428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maidstonerepairs.co.uk.ico",
     "slug": "maidstone-repairs",
     "status": "down",
-    "uptime": "57.75%",
+    "uptime": "57.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 216,
+    "time": 218,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -22805,8 +22803,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -22815,18 +22812,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/manchester-repairs.co.uk.ico",
     "slug": "manchester-repairs",
     "status": "down",
-    "uptime": "30.13%",
+    "uptime": "30.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 205,
+    "time": 203,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 45,
+      "2025-02-21": 43,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -23189,8 +23187,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -23199,16 +23196,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/miltonkeynesrepairs.co.uk.ico",
     "slug": "milton-keynes-repairs",
     "status": "up",
-    "uptime": "82.23%",
+    "uptime": "82.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.84%",
+    "uptimeYear": "69.11%",
     "time": 183,
-    "timeDay": 179,
-    "timeWeek": 204,
-    "timeMonth": 237,
-    "timeYear": 180,
+    "timeDay": 379,
+    "timeWeek": 225,
+    "timeMonth": 239,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2024-12-09": 274,
       "2024-09-10": 278,
@@ -23322,8 +23319,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -23332,7 +23328,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/motherwellrepairs.co.uk.ico",
     "slug": "motherwell-repairs",
     "status": "down",
-    "uptime": "57.24%",
+    "uptime": "57.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -23343,7 +23339,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -23706,8 +23703,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -23716,18 +23712,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/newcastlerepairs.co.uk.ico",
     "slug": "newcastle-repairs",
     "status": "down",
-    "uptime": "61.31%",
+    "uptime": "61.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "9.46%",
-    "time": 203,
+    "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -24057,8 +24054,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -24067,16 +24063,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/newportrepairs.co.uk.ico",
     "slug": "newport-repairs",
     "status": "up",
-    "uptime": "63.12%",
+    "uptime": "63.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.84%",
+    "uptimeYear": "69.12%",
     "time": 186,
-    "timeDay": 202,
-    "timeWeek": 261,
-    "timeMonth": 231,
-    "timeYear": 182,
+    "timeDay": 405,
+    "timeWeek": 268,
+    "timeMonth": 234,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2024-12-09": 232,
       "2024-09-10": 278,
@@ -24190,8 +24186,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -24200,16 +24195,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/norfolkrepairs.co.uk.ico",
     "slug": "norfolk-repairs",
     "status": "up",
-    "uptime": "53.90%",
+    "uptime": "53.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.71%",
+    "uptimeYear": "88.98%",
     "time": 182,
-    "timeDay": 188,
-    "timeWeek": 270,
+    "timeDay": 292,
+    "timeWeek": 258,
     "timeMonth": 244,
-    "timeYear": 183,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2024-12-27": 151,
       "2024-12-26": 202,
@@ -24253,8 +24248,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -24263,7 +24257,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/northwalesrepairs.co.uk.ico",
     "slug": "north-wales-repairs",
     "status": "down",
-    "uptime": "51.06%",
+    "uptime": "51.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -24274,7 +24268,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -24637,8 +24632,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -24647,7 +24641,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/northamptonrepairs.co.uk.ico",
     "slug": "northampton-repairs",
     "status": "down",
-    "uptime": "57.08%",
+    "uptime": "57.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -24658,7 +24652,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -25021,8 +25016,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -25031,7 +25025,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/norwich-repairs.co.uk.ico",
     "slug": "norwich-repairs",
     "status": "down",
-    "uptime": "48.57%",
+    "uptime": "48.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -25040,9 +25034,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 118,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -25405,8 +25400,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -25415,18 +25409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nottinghamrepairs.co.uk.ico",
     "slug": "nottingham-repairs",
     "status": "down",
-    "uptime": "48.57%",
+    "uptime": "48.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 145,
+    "time": 146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 139,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -25789,8 +25784,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -25799,18 +25793,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oldhamrepairs.co.uk.ico",
     "slug": "oldham-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 171,
+    "time": 172,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -26173,8 +26168,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -26183,7 +26177,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oxfordrepairs.co.uk.ico",
     "slug": "oxford-repairs",
     "status": "down",
-    "uptime": "51.07%",
+    "uptime": "51.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -26194,7 +26188,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -26557,8 +26552,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -26567,7 +26561,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/paisleyrepairs.co.uk.ico",
     "slug": "paisley-repairs",
     "status": "down",
-    "uptime": "46.53%",
+    "uptime": "46.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -26578,7 +26572,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -26941,8 +26936,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -26951,7 +26945,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/perthrepairs.co.uk.ico",
     "slug": "perth-repairs",
     "status": "down",
-    "uptime": "44.47%",
+    "uptime": "44.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -26962,7 +26956,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -27325,8 +27320,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -27335,18 +27329,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/peterboroughrepairs.co.uk.ico",
     "slug": "peterborough-repairs",
     "status": "down",
-    "uptime": "58.20%",
+    "uptime": "58.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "5.53%",
-    "time": 184,
+    "time": 185,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -27689,8 +27684,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -27699,18 +27693,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/plymouthrepairs.co.uk.ico",
     "slug": "plymouth-repairs",
     "status": "down",
-    "uptime": "52.84%",
+    "uptime": "52.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 175,
+    "time": 176,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -28073,8 +28068,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -28083,18 +28077,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/poolerepairs.co.uk.ico",
     "slug": "poole-repairs",
     "status": "down",
-    "uptime": "23.08%",
+    "uptime": "23.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 161,
+    "time": 162,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 117,
+    "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -28457,8 +28452,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -28472,7 +28466,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
+    "time": 164,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -28485,12 +28479,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/prestonrepairs.co.uk.ico",
     "slug": "preston-repairs",
     "status": "down",
-    "uptime": "96.74%",
+    "uptime": "96.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
+    "time": 181,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -28503,7 +28497,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/readingrepairs.co.uk.ico",
     "slug": "reading-repairs",
     "status": "down",
-    "uptime": "51.07%",
+    "uptime": "51.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -28514,7 +28508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 46,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -28877,8 +28872,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -28887,7 +28881,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/redhillrepairs.co.uk.ico",
     "slug": "redhill-repairs",
     "status": "down",
-    "uptime": "22.36%",
+    "uptime": "22.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -28896,9 +28890,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 124,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-02-20": 47,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -29261,8 +29256,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -29276,11 +29270,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 179,
-    "timeDay": 205,
-    "timeWeek": 259,
-    "timeMonth": 229,
-    "timeYear": 185,
+    "time": 180,
+    "timeDay": 419,
+    "timeWeek": 261,
+    "timeMonth": 233,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2024-12-09": 270,
       "2024-09-10": 253
@@ -29297,7 +29291,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
+    "time": 241,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -29310,16 +29304,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/salfordrepairs.co.uk.ico",
     "slug": "salford-repairs",
     "status": "up",
-    "uptime": "72.07%",
+    "uptime": "72.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "77.43%",
+    "uptimeYear": "77.70%",
     "time": 182,
-    "timeDay": 203,
-    "timeWeek": 219,
-    "timeMonth": 223,
-    "timeYear": 181,
+    "timeDay": 363,
+    "timeWeek": 232,
+    "timeMonth": 225,
+    "timeYear": 182,
     "dailyMinutesDown": {
       "2025-02-06": 224,
       "2024-11-08": 230,
@@ -29404,8 +29398,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -29419,7 +29412,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
+    "time": 200,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -29432,18 +29425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sheffieldrepairs.co.uk.ico",
     "slug": "sheffield-repairs",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 224,
+    "time": 226,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 47,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -29806,8 +29800,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -29816,7 +29809,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shetlandrepairs.co.uk.ico",
     "slug": "shetland-repairs",
     "status": "down",
-    "uptime": "35.87%",
+    "uptime": "35.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -29827,7 +29820,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 47,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -30190,8 +30184,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -30200,7 +30193,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shrewsburyrepairs.co.uk.ico",
     "slug": "shrewsbury-repairs",
     "status": "down",
-    "uptime": "46.31%",
+    "uptime": "46.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -30211,7 +30204,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 47,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -30574,8 +30568,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -30584,7 +30577,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sloughrepairs.co.uk.ico",
     "slug": "slough-repairs",
     "status": "down",
-    "uptime": "50.88%",
+    "uptime": "50.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -30595,7 +30588,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 47,
+      "2025-02-21": 44,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -30958,8 +30952,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -30973,7 +30966,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
+    "time": 166,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -30986,7 +30979,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/southendrepairs.co.uk.ico",
     "slug": "southend-repairs",
     "status": "down",
-    "uptime": "72.23%",
+    "uptime": "72.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -30995,7 +30988,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 137,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -31031,7 +31024,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 118,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -31045,7 +31038,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
+    "time": 220,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -31081,7 +31074,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
+    "time": 163,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -31094,18 +31087,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunderlandrepairs.co.uk.ico",
     "slug": "sunderland-repairs",
     "status": "down",
-    "uptime": "23.08%",
+    "uptime": "23.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 159,
+    "time": 160,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 47,
+      "2025-02-21": 45,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -31468,8 +31462,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -31487,7 +31480,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 113,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -31501,7 +31494,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
+    "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -31514,7 +31507,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swindonrepairs.co.uk.ico",
     "slug": "swindon-repairs",
     "status": "down",
-    "uptime": "51.07%",
+    "uptime": "51.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -31525,7 +31518,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 48,
+      "2025-02-21": 45,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -31888,8 +31882,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -31898,18 +31891,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tauntonrepairs.co.uk.ico",
     "slug": "taunton-repairs",
     "status": "down",
-    "uptime": "30.65%",
+    "uptime": "30.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 223,
+    "time": 224,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 48,
+      "2025-02-21": 45,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -32272,8 +32266,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -32282,7 +32275,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/teessiderepairs.co.uk.ico",
     "slug": "teesside-repairs",
     "status": "down",
-    "uptime": "51.07%",
+    "uptime": "51.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -32293,7 +32286,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 48,
+      "2025-02-21": 45,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -32656,8 +32650,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -32671,7 +32664,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
+    "time": 181,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -32684,18 +32677,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tivertonrepairs.co.uk.ico",
     "slug": "tiverton-repairs",
     "status": "down",
-    "uptime": "50.64%",
+    "uptime": "50.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 129,
+    "time": 115,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 48,
+      "2025-02-21": 45,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -33058,8 +33052,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -33104,7 +33097,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tunbridgewellsrepairs.co.uk.ico",
     "slug": "tunbridge-wells-repairs",
     "status": "down",
-    "uptime": "22.89%",
+    "uptime": "22.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -33113,9 +33106,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 129,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-02-20": 48,
+      "2025-02-21": 45,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -33478,8 +33472,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -33488,7 +33481,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tweedbankrepairs.co.uk.ico",
     "slug": "tweedbank-repairs",
     "status": "down",
-    "uptime": "22.57%",
+    "uptime": "22.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -33499,7 +33492,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 48,
+      "2025-02-21": 45,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -33862,8 +33856,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -33881,7 +33874,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 121,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -33908,7 +33901,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakefield-repairs.co.uk.ico",
     "slug": "wakefield-repairs",
     "status": "down",
-    "uptime": "97.76%",
+    "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -33935,7 +33928,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 118,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -33944,18 +33937,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/warringtonrepairs.co.uk.ico",
     "slug": "warrington-repairs",
     "status": "down",
-    "uptime": "75.13%",
+    "uptime": "75.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.49%",
+    "uptimeYear": "71.22%",
     "time": 161,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-02-20": 48,
+      "2025-02-21": 45,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -34069,12 +34063,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/watfordrepairs.co.uk.ico",
     "slug": "watford-repairs",
     "status": "down",
-    "uptime": "90.68%",
+    "uptime": "90.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
+    "time": 192,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -34087,12 +34081,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/weymouthrepairs.co.uk.ico",
     "slug": "weymouth-repairs",
     "status": "down",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
+    "time": 162,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -34146,7 +34140,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
+    "time": 194,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
